@@ -1,5 +1,7 @@
 # Technical Report for iPhone 15 Pro Promotional Website
 
+Deployed website: https://6704e2133b2606e4fa34a875--cloneiphone.netlify.app
+
 
 Currently, two official plugins are available:
 
